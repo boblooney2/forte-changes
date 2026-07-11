@@ -3,6 +3,7 @@ Forte by [ForteSG, Inc](https://fortesg.com)
 
 # Summer 2026.01
 _Released July 8, 2026_
+
 * User Management improvements - table/detail view, additional filtering and sorting options
 * Employee Management improvements - table/detail view
 * Operations \ Recurring improvements - Location Group added to the columns, additional filtering options
@@ -20,6 +21,7 @@ _Released July 8, 2026_
 
 # Summer 2026
 _Released July 1, 2026_
+
 [Forte Summer 2026 Release Brings Inventory, Recipes & COGS to Restaurant Teams](https://fortesg.com/blog/forte-summer-2026-release-brings-inventory-recipes-cogs-to-restaurant-teams)
 * Forte COGS module released including Inventory, Recipe and COGS Invoice pages
 * Reports \ Operations Recap now includes an optional weekly metrics section
