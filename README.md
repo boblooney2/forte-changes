@@ -1,7 +1,7 @@
 # Forte Change log
 Forte by [ForteSG, Inc](https://fortesg.com)
 
-# Summer 2026.01
+## Summer 2026.01
 _Released July 8, 2026_
 
 * User Management improvements - table/detail view, additional filtering and sorting options
@@ -19,7 +19,7 @@ _Released July 8, 2026_
 * Bug fix - Private bookmarks can now be used by the report batch system
 * Bug fix - Deactivated report batches can now be restored
 
-# Summer 2026
+## Summer 2026
 _Released July 1, 2026_
 
 [Forte Summer 2026 Release Brings Inventory, Recipes & COGS to Restaurant Teams](https://fortesg.com/blog/forte-summer-2026-release-brings-inventory-recipes-cogs-to-restaurant-teams)
