@@ -1,2 +1,4 @@
-# forte-changes
-Change log for Forte
+# Forte Change log
+Forte by ForteSG, Inc
+
+
