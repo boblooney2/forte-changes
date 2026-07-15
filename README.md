@@ -1,6 +1,23 @@
 # Forte Change log
 Forte by [ForteSG, Inc](https://fortesg.com)
 
+## Summer 2026.02
+_Released July 15, 2026_
+* Our single date selector has been optimized to minimize clicks when changing to a specific date. This impacts the manager log, cash tracking, and a few reports.
+* Accounting \ Export - A new preview alert has been added if a Location + Date combination has unmatched debits and credits to help isolate days that need further inspection.
+* Reports \ Accounting Ops Statement – The report now will ignore inventory adjustments to Accounts outside of COGS category (e.g. supplies in an op ex account)
+* Inventory Counts – added alerts for missing costs and missing accounts
+* Account Name standardization across the accounting module and reports when class code and/or class name are in use
+* Expanded the rollout of the report cancelation feature so a user can stop long running reports
+* When adding a post, changing the Post Category will now clear out the list of users to notify before loading the users for the new category
+* Various mobile app layout improvements
+* Updates to several underlying web libraries and components to resolve issues and improve performance within those packages
+* Config \ Users – Sorting by Default Location Group is now fixed
+* Config \ Users – Fixed a workflow issue with the new layout when adding a new user
+* Config \ Employee Detail – Deactivate and Restore functionality was not working correctly
+* Employee Portal – The current day shift could disappear before completed under certain week and time zone conditions
+* Operations \ Post Category – After a recent change, adding a new post category was always disabled due to a logic issue
+
 ## Summer 2026.01
 _Released July 8, 2026_
 
